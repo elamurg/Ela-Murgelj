@@ -69,13 +69,6 @@ A modular dashboard template with cards, filters, and charts ready for real data
 - Ship with logs, metrics, and tests so iteration is cheap.
 
 ---
- 
-## GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
 
 ## Let’s Connect!  
   
