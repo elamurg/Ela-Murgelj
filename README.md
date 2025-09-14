@@ -2,7 +2,7 @@
 # This is me and my work!✧.*
 
 **Frontend Engineer × ML Engineer**  
-I build clean, fast interfaces and ship models that actually make products smarter. My work often blends UX instincts with data-driven systems—especially around fashion trend prediction and recommender flows.
+I build clean, fast interfaces and ship models that actually make products smarter. My work often blends UX instincts with data-driven systems, especially around fashion trend prediction and recommender flows.
 
 ---
 
